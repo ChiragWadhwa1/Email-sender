@@ -1,0 +1,5 @@
+{
+  "name": "ReachFlow AI - Personalized Outreach at Scale",
+  "description": "An AI-powered email personalization engine that transforms CSV lists into high-converting, tailored outreach campaigns using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
